@@ -1,11 +1,17 @@
 ### Hi there 👋
+<ul>
+<li> <p>😄 I'm a 23 year old aspiring web developer from Finland🇫🇮</p> </li>
+<li><p>🌱 I’m currently learning web development on <a href="https://www.theodinproject.com/">The Odin Project</a></p> </li>
+<li><p>✨ My Hobbies include: 🇪🇸Language Learning, 🎶Producing Music, 🎮Gaming & 🍿Movies </p> </li>
+<li><p>📫 If you'd like to contact me <a href="">osterholm.kim@gmail.com</a></p> </li>
+</ul>
 
 <!--
 **KimOsterholm/KimOsterholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
