@@ -1,6 +1,7 @@
 ### Hi there 👋
+
+<p> I'm a 23 year old aspiring web developer from Finland🇫🇮</p>
 <ul>
-<li> <p>😄 I'm a 23 year old aspiring web developer from Finland🇫🇮</p> </li>
 <li><p>🌱 I’m currently learning web development on <a href="https://www.theodinproject.com/">The Odin Project</a></p> </li>
 <li><p>✨ My Hobbies include: 🇪🇸Language Learning, 🎶Producing Music, 🎮Gaming & 🍿Movies </p> </li>
 <li><p>📫 If you'd like to contact me <a href="">osterholm.kim@gmail.com</a></p> </li>
